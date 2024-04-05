@@ -83,3 +83,4 @@ for (let i = 0; i < numGenerations; i++) {
   console.log(`Generation ${i + 1}:`);
   printGrid(grid);
 }
+console.log(grid.js)
